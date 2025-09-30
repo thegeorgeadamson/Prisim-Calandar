@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1217DF82-0E2F-4DE6-81A4-2AB4CBE26F0B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CF228EF-E4ED-4A6C-A76B-668F2223CD2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/rr/d3z30j4x1jjd8d_yns1jq6xr0000gn/T/swift-generated-sources/@__swiftmacro_15Prisim_Calandar11ContentViewV6events33_006879E283558576A298F54130112A0FLL5QueryfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5CF228EF-E4ED-4A6C-A76B-668F2223CD2D - 2f73e59bc0f62f87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Prisim_Calandar.ContentView.init() -&gt; Prisim_Calandar.ContentView"
+                  moduleName = "Prisim Calandar.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/rr/d3z30j4x1jjd8d_yns1jq6xr0000gn/T/-516848.@__swiftmacro_15Prisim_Calandar11ContentViewV6events33_006879E283558576A298F54130112A0FLL5QueryfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "5CF228EF-E4ED-4A6C-A76B-668F2223CD2D - 52c07d04dbd9c3fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Prisim_Calandar.ContentView.init(_events: _SwiftData_SwiftUI.Query&lt;Prisim_Calandar.EventItem, Swift.Array&lt;Prisim_Calandar.EventItem&gt;&gt;) -&gt; Prisim_Calandar.ContentView"
+                  moduleName = "Prisim Calandar.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/rr/d3z30j4x1jjd8d_yns1jq6xr0000gn/T/-516848.@__swiftmacro_15Prisim_Calandar11ContentViewV6events33_006879E283558576A298F54130112A0FLL5QueryfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FA53680-E65B-4951-91BE-D1CF427D14DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Prisim Calandar/Views/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
